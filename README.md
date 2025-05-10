@@ -29,7 +29,7 @@ Dataset includes:
 
 ## 📊 Results
 
-- **Random Forest** achieved an **R² score of 0.92**, demonstrating high accuracy.
+- **Random Forest** achieved an **R² score of 0.86**, demonstrating high accuracy.
   ![pred3](https://github.com/user-attachments/assets/461ccd22-407d-4f0f-b95b-dcadbce52e6b)
 
 - LSTM effectively captured non-linear trends and performed well for short-term forecasting.
