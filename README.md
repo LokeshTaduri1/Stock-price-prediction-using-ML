@@ -21,7 +21,8 @@ Dataset includes:
 - Open, High, Low, Close prices
 - Volume
 - Date
-  ![pred1](https://github.com/user-attachments/assets/c7498f78-add4-44ab-86b0-ceba987e479d)
+  ![pred4](https://github.com/user-attachments/assets/a5b72ccd-2caf-4d84-874e-16cf58f47043)
+
 
 
 ---
