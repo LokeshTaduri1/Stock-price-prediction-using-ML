@@ -15,7 +15,7 @@ This project aims to predict stock market prices using historical data and vario
 ## 🗃️ Dataset
 
 - Historical stock data for **Tesla (TSLA)**.
-- Sourced from [Kaggle](https://www.kaggle.com/).
+- Sourced from [Kaggle](https://www.kaggle.com/datasets/aspillai/tesla-stock-price-with-indicators-10-years/data).
 
 Dataset includes:
 - Open, High, Low, Close prices
