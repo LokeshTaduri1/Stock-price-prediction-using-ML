@@ -46,26 +46,6 @@ Dataset includes:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repo:
-    ```bash
-    git clone https://github.com/YourUsername/stock-price-prediction.git
-    cd stock-price-prediction
-    ```
-
-2. Install required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the notebook or script:
-    ```bash
-    python stock_prediction.py
-    ```
-
----
-
 ## 🛠️ Technologies
 
 - Python
@@ -78,7 +58,7 @@ Dataset includes:
 
 ## 📎 Links
 
-- [Project on GitHub](https://github.com/YourUsername/stock-price-prediction)
+- [Project on GitHub](https://github.com/LokeshTaduri1/Stock-price-prediction-using-ML)
 - [LSTM Info - Towards Data Science](https://towardsdatascience.com/)
 - [Random Forest Regression - sklearn docs](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
 
